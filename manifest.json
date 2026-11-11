@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "gsm3193-alt.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "gsm3193-alt.github",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
